@@ -1,0 +1,3 @@
+../Core/Src/Fan_app.c:170:6:display_sensor_config	1
+../Core/Src/Fan_app.c:179:6:display_sensor	1
+../Core/Src/Fan_app.c:33:6:main_display	26
